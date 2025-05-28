@@ -1,6 +1,10 @@
 # LARAVEL
 
-1. Instalar o composer (similar npm ou yarn)
+1. Instalar o composer (similar npm ou yarn) e outras deps
+    - sudo apt install composer
+    - sudo apt install php-xml
+    - sudo apt install php-curl
+    - sudo apt install php-mysql
     - composer create-project laravel/laravel .
     - laravel = projeto
     - laravel = user
